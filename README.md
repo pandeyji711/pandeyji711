@@ -29,4 +29,6 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
  </a>
 </div>
-[![](https://visitcount.itsvg.in/api?id=gaggz1&icon=0&color=12)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=pandeyji711&label=Profile%20Views&color=12&icon=0&pretty=true" />
+</a>
