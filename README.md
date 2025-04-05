@@ -29,7 +29,7 @@
 
   <img src="https://visitcount.itsvg.in/api?id=pandeyji711&label=Profile%20Views&color=12&icon=0&pretty=true"  />
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=pandeyji711&label=Profile%20views&color=0e75b6&style=flat" alt="pandeyji711" width="27" height="27" />
+  <img src="https://komarev.com/ghpvc/?username=pandeyji711&label=Profile%20views&color=0e75b6&style=flat" alt="pandeyji711" width="47" height="27" />
 </p>
 
 
