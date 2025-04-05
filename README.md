@@ -27,8 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandeyji711&" alt="pandeyji711" /></p>
 
-  <img src="https://visitcount.itsvg.in/api?id=pandeyji711&label=Profile%20Views&color=12&icon=0&pretty=true"  />
-<p align="left">
+ 
   <img src="https://komarev.com/ghpvc/?username=pandeyji711&label=Profile%20views&color=0e75b6&style=flat" alt="pandeyji711" width="137" height="37" />
 </p>
 
