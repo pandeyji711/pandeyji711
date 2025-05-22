@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Anurag Pandey   </h1>
-  <img src="https://komarev.com/ghpvc/?username=pandeyji711&abbreviated=true&label=Profile%20views&&color=blueviolet&style=for-the-badge" alt="pandeyji711" width="137" height="27" />
+  <img src="https://komarev.com/ghpvc/?username=pandeyji711&abbreviated=true&label=Profile%20views" alt="pandeyji711" width="137" height="27" />
 <h3 align="center">A passionate backend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandeyji711" alt="pandeyji711" /></a> </p>
